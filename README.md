@@ -8,6 +8,8 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde gitHub
 Este es un mensaje editado desde GitHub, este es una actualizacion
+Este es un mensaje editado desde GitHub
+Otro cambio desde GitHub
 
 
 ### Actualiado local
